@@ -10,6 +10,8 @@ Here you can see the shortcode implementation: [NFL-Teams-Challenge](https://dev
 </br>
 
 And you can view the data output from the API in the admin panel:
+
 </br>
+
 ![image](https://user-images.githubusercontent.com/62116251/131208165-6f3ebe43-e30d-49ca-8b3d-386fdc7d7a1e.png)
 
