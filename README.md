@@ -13,5 +13,5 @@ And you can view the data output from the API in the admin panel:
 
 </br>
 
-![image](https://user-images.githubusercontent.com/62116251/131208165-6f3ebe43-e30d-49ca-8b3d-386fdc7d7a1e.png)
+![nfl_admin_view](https://user-images.githubusercontent.com/62116251/131208305-84e611b1-1d8f-470b-85dc-8f3336f30892.png)
 
